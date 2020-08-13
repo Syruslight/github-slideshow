@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text no entiendo nada de nadad
+ayuda pee no entiendo muy bien esto
 Use the left arrow to go back!
